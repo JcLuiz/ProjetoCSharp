@@ -41,9 +41,9 @@
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.Location = new System.Drawing.Point(101, 160);
+            this.listBox1.Location = new System.Drawing.Point(81, 147);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(278, 108);
+            this.listBox1.Size = new System.Drawing.Size(331, 121);
             this.listBox1.TabIndex = 0;
             // 
             // textBox1
@@ -56,19 +56,19 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(78, 45);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(149, 18);
+            this.label1.Size = new System.Drawing.Size(180, 24);
             this.label1.TabIndex = 2;
             this.label1.Text = "Digite os Produtos";
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Modern No. 20", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(316, 104);
+            this.button1.Location = new System.Drawing.Point(270, 104);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(96, 38);
+            this.button1.Size = new System.Drawing.Size(142, 38);
             this.button1.TabIndex = 3;
             this.button1.Text = "Adicionar";
             this.button1.UseVisualStyleBackColor = true;
@@ -77,9 +77,9 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Modern No. 20", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(316, 301);
+            this.button2.Location = new System.Drawing.Point(270, 274);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(96, 38);
+            this.button2.Size = new System.Drawing.Size(142, 38);
             this.button2.TabIndex = 4;
             this.button2.Text = "Remover";
             this.button2.UseVisualStyleBackColor = true;
@@ -88,9 +88,9 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(312, 22);
+            this.pictureBox1.Location = new System.Drawing.Point(12, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(100, 50);
+            this.pictureBox1.Size = new System.Drawing.Size(39, 26);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 5;
             this.pictureBox1.TabStop = false;
