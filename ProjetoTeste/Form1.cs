@@ -24,6 +24,7 @@ namespace ProjetoTeste
         private void button1_Click(object sender, EventArgs e)
         {
             listBox1.Items.Add(textBox1.Text);
+            this.textBox1.Clear();
         }
     }
 }
