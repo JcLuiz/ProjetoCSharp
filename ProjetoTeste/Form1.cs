@@ -15,5 +15,10 @@ namespace ProjetoTeste
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Remove(listBox1.SelectedItem);
+        }
     }
 }
